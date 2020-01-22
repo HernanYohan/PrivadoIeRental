@@ -85,7 +85,7 @@
             </td>
             <td class="dxeTextBoxDefaultWidthSys" style="width: 120px">&nbsp;</td>
             <td class="dxeTextBoxDefaultWidthSys" style="width: 930px">
-                <dx:ASPxButton ID="ASPxButton1" runat="server" Text="Ingresar" Theme="Office2010Blue" Width="120px" ValidationGroup="v1">
+                <dx:ASPxButton ID="ASPxButton1" runat="server" Text="Ingresar" Theme="Office2010Blue" Width="120px" ValidationGroup="v1" OnClick="ASPxButton1_Click">
                 </dx:ASPxButton>
             </td>
             <td class="dxeTextBoxDefaultWidthSys" style="width: 930px">
